@@ -1,5 +1,5 @@
 
-[Resume](./Resume)
+[Resume](./Nigel_s_Resume.pdf)
 
 [Projects](http://www.github.com/nigellipps)
 
