@@ -1,9 +1,9 @@
 
-[Resume: ](./Resume)
+[Resume](./Resume)
 
-[Projects: ](http://www.github.com/nigellipps)
+[Projects](http://www.github.com/nigellipps)
 
-[LinkedIn: ](https://www.linkedin.com/nigellipps)
+[LinkedIn](https://www.linkedin.com/nigellipps)
 
 
 
